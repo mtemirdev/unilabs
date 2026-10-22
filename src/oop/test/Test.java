@@ -1,8 +1,8 @@
-package test;
+package oop.test;
 
-import example.Auto;
-import example.Car;
-import example.Truck;
+import oop.example.Auto;
+import oop.example.Car;
+import oop.example.Truck;
 
 import java.util.Scanner;
 

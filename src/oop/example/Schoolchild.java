@@ -1,4 +1,4 @@
-package example;
+package oop.example;
 
 /** Учащийся школы с указанием класса обучения и названия школы. */
 public class Schoolchild extends Learner {

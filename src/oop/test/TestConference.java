@@ -1,8 +1,8 @@
-package test;
+package oop.test;
 
-import example.Conference;
-import example.Schoolchild;
-import example.UniversityStudent;
+import oop.example.Conference;
+import oop.example.Schoolchild;
+import oop.example.UniversityStudent;
 
 public class TestConference {
     public static void main(String[] args) {

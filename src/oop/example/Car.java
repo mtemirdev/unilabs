@@ -1,6 +1,4 @@
-package example;
-
-import example.Auto;
+package oop.example;
 
 /** Легковой автомобиль; расширяет {@link Auto} моделью, числом дверей и признаком полного привода. */
 public class Car extends Auto {//файл Car.java

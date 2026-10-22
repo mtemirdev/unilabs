@@ -1,8 +1,8 @@
-package test;
+package oop.test;
 
-import example.Car;
-import example.GarageCar;
-import example.Truck;
+import oop.example.Car;
+import oop.example.GarageCar;
+import oop.example.Truck;
 
 public class TestGarage {
     public static void main(String[] args) {

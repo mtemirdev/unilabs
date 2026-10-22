@@ -1,4 +1,4 @@
-package example;
+package oop.example;
 
 /** Базовое описание учащегося: имя и возраст. */
 public class Learner {

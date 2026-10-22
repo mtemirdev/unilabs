@@ -1,4 +1,4 @@
-package example;
+package oop.example;
 
 /**
  * Представляет студента высшего учебного заведения.

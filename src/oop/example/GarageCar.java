@@ -1,4 +1,4 @@
-package example;
+package oop.example;
 
 import java.util.ArrayList;
 

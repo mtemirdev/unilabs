@@ -1,6 +1,4 @@
-package example;
-
-import example.Auto;
+package oop.example;
 
 import java.util.Scanner;
 /** Грузовой автомобиль; расширяет {@link Auto} моделью, мощностью и наличием прицепа. */
