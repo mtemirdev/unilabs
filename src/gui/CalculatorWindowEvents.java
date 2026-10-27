@@ -1,9 +1,12 @@
-package swing;
+package gui;
 
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+/**
+ * Лабораторная работа №5. Индивидуальное задание.
+ */
 public class CalculatorWindowEvents {
     public static void main(String[] args) {
         // Создание главного окна с заголовком

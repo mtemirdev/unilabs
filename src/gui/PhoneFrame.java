@@ -1,8 +1,11 @@
-package swing;
+package gui;
 
 import java.awt.*;
 import javax.swing.*;
 
+/**
+ * Лабораторная работа №4. Обязательное задание.
+ */
 public class PhoneFrame {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
